@@ -41,7 +41,7 @@ export default class Clock extends Component {
     this.componentDidUpdate(this.state.second);
   }
 
-  //Controla estado dos botoes
+  //Controla estado dos botoes e impede que o contador fique pulando
   defineCronometer() {
     if (this.state.second === 0)
       return;
