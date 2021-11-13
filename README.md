@@ -14,5 +14,5 @@ Utilize o **componentDidMount()** para atualizar os dados na tela e com o **comp
 
 
 
-Clique **[aqui](https://moreirafelipe.github.io/dh-frontend3-cronometro/)** e navegue pela atividade.
+Clique **[aqui](https://dh-frontend3-cronometro.vercel.app/)** e navegue pela atividade.
 
